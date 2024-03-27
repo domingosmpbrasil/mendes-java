@@ -1,7 +1,6 @@
-package classeScaner;
+package entradaDadosScanner;
 
 import java.util.Scanner;
-import java.util.Calendar;
 
 public class RecebendoDados1 {
     public static void main(String[] args) {

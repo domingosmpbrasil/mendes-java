@@ -31,4 +31,3 @@ public class CalculandoNotasDeAluno {
         }
 recebeNotaAlunos.close();    }
 }
-

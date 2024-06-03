@@ -28,7 +28,7 @@ public class ProgramaQueSomaDoisNumeros {
             System.out.println("Os números somados são iguais a " + resultado);
 
             System.out.println("Quer fazer mais somas? Digite S para sim ou N para não. ");
-            resposta a= soma.next();
+            resposta = soma.next();
 
             if (resposta.equalsIgnoreCase("N")) {
                 break;
